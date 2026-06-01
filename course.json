@@ -1,0 +1,39 @@
+{
+  "courseName": "Energy consumption",
+  "courseDescription": "A course for energy consumption.",
+  "visibility": "public",
+  "imageLink": {
+    "darkLogo": "https://img.freepik.com/free-vector/gradient-quantum-illustration_52683-80504.jpg",
+    "lightLogo": "https://img.freepik.com/free-vector/gradient-quantum-illustration_52683-80504.jpg"
+  },
+  "tags": [
+    "quantum computing",
+    "QAOA",
+    "optimization",
+    "qiskit",
+    "networkx"
+  ],
+  "deployedTo": ["qbraid.com"],
+  "content": [
+    {
+      "chapterName": "Energy Consumption",
+      "chapterFileName": "energy_consumption.ipynb",
+      "filePath": "",
+      "baseFilePath": "./energy_consumption.ipynb",
+      "chapterNumber": 1,
+      "kernelName": "python3",
+      "kernelId": "Python 3",
+      "sections": []
+    },
+    {
+      "chapterName": "Regressor Air Quality",
+      "chapterFileName": "regressor_air_quality.ipynb",
+      "filePath": "",
+      "baseFilePath": "./regressor_air_quality.ipynb",
+      "chapterNumber": 2,
+      "kernelName": "python3",
+      "kernelId": "Python 3",
+      "sections": []
+    }
+  ]
+}
